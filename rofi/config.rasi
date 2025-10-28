@@ -1,0 +1,12 @@
+configuration {
+	font: "Terminess Nerd Font Propo 11";
+	show-icons: false;
+	drun-display-format: "{name}";
+	sorting-method: "normal";
+	display-drun: "-";
+	location: 0;
+	sidebar-mode: true;
+
+	}
+
+@theme "~/.config/rofi/current.rasi"
